@@ -9,6 +9,7 @@ class App extends React.Component{
     }
   }
   render(){
+    alert("This is a static page!")
     return (
       <div className="App">
         <h1>Welcome to Our Demo App</h1>
